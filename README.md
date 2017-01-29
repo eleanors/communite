@@ -17,7 +17,7 @@ git rm --cached `<filename>`   移除通过 add . 添加的文件
 
 把本地tag推送到远程     git push --tags
 
-获取远程tag       git fetch origin tag <tagname>
+获取远程tag       git fetch origin tag `<tagname>`
 
 切换到标签        git checkout [tagname]
 
